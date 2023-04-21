@@ -1,4 +1,4 @@
-Notice
+**Notice**
 
 As part of my personal project on Sydney housing prices, I have analyzed some interesting facts and figures related to the price and price per size (m2) of properties sold in the Greater Sydney area between 2016 and 2022.
 
